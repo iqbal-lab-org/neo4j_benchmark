@@ -1,0 +1,14 @@
+cycler==0.10.0
+hurry.filesize==0.9
+kiwisolver==1.2.0
+matplotlib==3.2.1
+millify==0.1.1
+neo4j==1.7.6
+neobolt==1.7.17
+neotime==1.7.4
+numpy==1.18.4
+pandas==1.0.3
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+six==1.14.0
